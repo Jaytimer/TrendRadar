@@ -1,40 +1,27 @@
 早盘
 A股
+美股 
 
 GEMINI
-英伟达
+英伟
 
-华为
+
 TPU
 谷歌
-常山北明
 
 推特
-谷歌
-
 彭博社
-谷歌
 
-半导体
-芯片
-
-消费
-板
 特斯拉
 马斯克
-
 微软
-Microsoft
 
+Microso
 NVIDIA
-黄仁勋
-
 AMD
-
 google
 gemini
 deepmind
-
 chatgpt
 openai
 sora
@@ -42,18 +29,13 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
-人工智能
 
-机器人
-
-芯片
-光刻机
-
+存储芯片
+德明利
+常山北明
+三江购物
+供销大集
+兆易
 
